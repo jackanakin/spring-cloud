@@ -21,3 +21,7 @@
 
 ## 3.nio-http-client
 > RestTemplateCustomizer with: Non blocking (DefaultConnectingIOReactor) vs Blocking for integration test
+
+## 4.validation-and-controller-advice
+> Bean Validation and Controller Advice for exception handler
+
