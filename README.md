@@ -12,3 +12,12 @@
 * Configure Jackson for JSON processing with Spring Boot
 * Using JMS for messaging between Spring Boot Microservices
 * Using Spring State Machine to Apply the Saga Pattern with Microservices
+
+## 1.simple-rest
+> Very basic spring REST API with Lombok and api versioning
+
+## 2.integration-test
+> Integration test using spring's RestTemplate against the above REST API
+
+## 3.nio-http-client
+> RestTemplateCustomizer with: Non blocking (DefaultConnectingIOReactor) vs Blocking for integration test
