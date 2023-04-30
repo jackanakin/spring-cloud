@@ -25,3 +25,5 @@
 ## 4.validation-and-controller-advice
 > Bean Validation and Controller Advice for exception handler
 
+## 5.mapstruct-lombok
+> MapStruct for Dto <-> Entity conversion + Lombok to elimante getters and setters boiler code
