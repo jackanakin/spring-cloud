@@ -27,3 +27,6 @@
 
 ## 5.mapstruct-lombok
 > MapStruct for Dto <-> Entity conversion + Lombok to elimante getters and setters boiler code
+
+## 6.restdocs
+> Spring REST Docs to generate documentation snippets
