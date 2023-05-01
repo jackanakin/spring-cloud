@@ -30,3 +30,6 @@
 
 ## 6.restdocs
 > Spring REST Docs to generate documentation snippets
+
+## 7.json-processing
+> Using Jackson for Custom @JsonSerialize(using), @JsonDeserialize(using), @JsonFormat(pattern,shape), @JsonProperty("customField")
