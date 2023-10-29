@@ -33,3 +33,7 @@
 
 ## 7.json-processing
 > Using Jackson for Custom @JsonSerialize(using), @JsonDeserialize(using), @JsonFormat(pattern,shape), @JsonProperty("customField")
+
+## 8.jms
+> Sample using Apache MQ to send and receive messages through an Apache MQ Server on a docker container `docker run --rm -p 8161:8161 -p 61616:61616 vromero/activemq-artemis`
+
