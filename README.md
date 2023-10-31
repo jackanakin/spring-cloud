@@ -13,6 +13,9 @@
 * Using JMS for messaging between Spring Boot Microservices
 * Using Spring State Machine to Apply the Saga Pattern with Microservices
 
+## 0.Final Project
+
+
 ## 1.simple-rest
 > Very basic spring REST API with Lombok and api versioning
 
@@ -37,3 +40,5 @@
 ## 8.jms
 > Sample using Apache MQ to send and receive messages through an Apache MQ Server on a docker container `docker run --rm -p 8161:8161 -p 61616:61616 vromero/activemq-artemis`
 
+## 9.state-machine
+> Sample using Spring State Machine with Actions, States, Guards and Interceptors
